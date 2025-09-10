@@ -31,8 +31,8 @@ We welcome contributors of all skill levels! Whether you're a seasoned Java deve
 
 Even small contributions like fixing typos, improving code comments, or reporting bugs help make NextDoc4J better for everyone.
 
-📖 **Contributing Guide**: [How to Contribute](https://docs.dockit4j.top/more/contribute.html)  
-👥 **Meet the Team**: [Our Contributors](https://docs.dockit4j.top/more/team/team.html)
+📖 **Contributing Guide**: [How to Contribute](https://nextdoc4j.top/more/contribute.html)  
+👥 **Meet the Team**: [Our Contributors](https://nextdoc4j.top/more/team/team.html)
 
 ## Support the Project
 
@@ -42,11 +42,11 @@ If you find our open-source tools helpful for your Java projects, please conside
 - 💰 **Sponsor us** to help cover development and infrastructure costs
 - 🗣️ **Spread the word** by sharing NextDoc4J with other Java developers
 
-☕ **Buy us a coffee**: [Support NextDoc4J](https://docs.dockit4j.top/more/team/team.html#%F0%9F%92%9D-%E8%B5%9E%E5%8A%A9)
+☕ **Buy us a coffee**: [Support NextDoc4J](https://nextdoc4j.top/more/team/team.html#%F0%9F%92%9D-%E8%B5%9E%E5%8A%A9)
 
 ## Contact & Community
 
-- 🌐 **Website**: [https://nextdoc4j.org](https://docs.dockit4j.top/)
+- 🌐 **Website**: [https://nextdoc4j.org](https://nextdoc4j.top/)
 - 📧 **Email**: [nextdoc4j@163.com](mailto:nextdoc4j@163.com)
 
 ---
