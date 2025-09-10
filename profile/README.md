@@ -46,7 +46,7 @@ If you find our open-source tools helpful for your Java projects, please conside
 
 ## Contact & Community
 
-- 🌐 **Website**: [https://nextdoc4j.org](https://nextdoc4j.top/)
+- 🌐 **Website**: [https://nextdoc4j.top](https://nextdoc4j.top/)
 - 📧 **Email**: [nextdoc4j@163.com](mailto:nextdoc4j@163.com)
 
 ---
